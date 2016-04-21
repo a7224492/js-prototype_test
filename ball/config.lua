@@ -7,9 +7,9 @@ BALL_INIT_X=160
 OBSTALCE_NUM=2 
 
 --enemy params
-ENEMY_SPEED=1.0
+ENEMY_SPEED=0.2
 
 --player params
-PLAYER_SPEED=0.1
+PLAYER_SPEED=0.2
 
 music="invoke.ogg"
